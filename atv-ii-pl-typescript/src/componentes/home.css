@@ -1,0 +1,27 @@
+.tamanho-imagem {
+    width: 1500px;
+    height: 300px;
+    margin-bottom: 50px;   
+}
+
+.img1 {
+    width: 1500px;
+    height: 333px;   
+}
+
+.img2 {
+    width: 1500px;
+    height: 333px;   
+}
+
+.img3 {
+    width: 1500px;
+    height: 333px;   
+}
+
+.title-custom {
+    background-color: #1f2023 !important;
+    color: white !important;
+    padding: 10px;
+    border-radius: 5px;
+}

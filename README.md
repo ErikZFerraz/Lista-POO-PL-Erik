@@ -20,29 +20,3 @@ npm install
 tsc
 node ./out/app/main.js
 ```
-
-<span id="2">
-
-## Lista II
-
-#### Projeto UI do sistema (Apenas interface) em Componentes de Classe.
-Comandos para rodar: 
-
-```cmd
-cd atv-ii-pl-typescript
-npm install
-npm start
-```
-
-<span id="3">
-
-## Lista III
-
-#### Projeto UI do sistema (Apenas interface) em Componentes de Função.
-Comandos para rodar: 
-
-```cmd
-cd atv-iii-pl-typescript
-npm install
-npm start
-```

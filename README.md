@@ -14,7 +14,6 @@
 Comandos para rodar: 
 
 ```cmd
-cd atv-ii-pl-typescript
 npm install
 npm start
 ```

@@ -7,13 +7,14 @@
 ## Professor Gerson da Penha Neto
 </div>
 <span id="1">
+
 ## Lista I
 
 #### Programa do tipo CLI (command-line interface) com cadastros de clientes, produtos, serviços, pets e listagens.
 Comandos para rodar:
 
 ```cmd
-cd atv-i
+cd atv-i-pl-typescript
 cd server
 npm install
 tsc
@@ -28,7 +29,7 @@ node ./out/app/main.js
 Comandos para rodar: 
 
 ```cmd
-cd atv-ii
+cd atv-ii-pl-typescript
 npm install
 npm start
 ```
@@ -41,7 +42,7 @@ npm start
 Comandos para rodar: 
 
 ```cmd
-cd atv-iii
+cd atv-iii-pl-typescript
 npm install
 npm start
 ```

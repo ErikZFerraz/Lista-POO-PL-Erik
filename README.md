@@ -9,12 +9,11 @@
 <span id="3">
 
 ## Lista III
-
+> Acesse a atviii-pl clicando [aqui](https://github.com/ErikZFerraz/Lista-POO-PL-Erik/tree/atv-iii-pl-typescript)!
 #### Projeto UI do sistema (Apenas interface) em Componentes de Função.
 Comandos para rodar: 
 
 ```cmd
-cd atv-iii-pl-typescript
 npm install
 npm start
 ```

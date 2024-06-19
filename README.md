@@ -14,7 +14,7 @@
 Comandos para rodar:
 
 ```cmd
-cd atv-i
+cd atv-i-pl-typescript
 cd server
 npm install
 tsc
@@ -29,7 +29,7 @@ node ./out/app/main.js
 Comandos para rodar: 
 
 ```cmd
-cd atv-ii
+cd atv-ii-pl-typescript
 npm install
 npm start
 ```
@@ -42,7 +42,7 @@ npm start
 Comandos para rodar: 
 
 ```cmd
-cd atv-iii
+cd atv-iii-pl-typescript
 npm install
 npm start
 ```

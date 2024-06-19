@@ -14,8 +14,6 @@
 Comandos para rodar:
 
 ```cmd
-cd atv-i-pl-typescript
-cd server
 npm install
 tsc
 node ./out/app/main.js
